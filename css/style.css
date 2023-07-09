@@ -9,11 +9,11 @@ body {
 }
 
 header {
-  height: 10vh;
+  height: 15vh;
 }
 
 main {
-  height: 80vh;
+  height: 75vh;
 }
 
 footer {
@@ -21,7 +21,7 @@ footer {
 }
 
 .carousel-item {
-  height: 35vh;
+  height: 30vh;
   min-height: 200px;
   background: no-repeat center center scroll;
   -webkit-background-size: cover;
